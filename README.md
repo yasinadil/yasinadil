@@ -31,7 +31,7 @@
 - [**dotsama-multichain-indexer**](https://github.com/yasinadil/dotsama-multichain-indexer): Subsquid ETL indexing an NFT exchange across Astar and Moonbeam into one GraphQL API
 - [**dental-research**](https://github.com/yasinadil/dental-research): Next.js + Supabase intake and analytics app behind a clinical study at three hospitals
 
-> Most of my production work is client code under NDA. The repos above are original reference implementations of the same patterns.
+> Most of my production work lives in private client repositories. Showcase builds of that work (Ark on Base, Aurum private placements) are on the way.
 
 #### 📫 Reach me
 
