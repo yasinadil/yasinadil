@@ -26,8 +26,10 @@
 <!-- - [**private-placement-escrow**](https://github.com/yasinadil/private-placement-escrow): EIP-1167 vault factory for private placements, with Foundry fuzz and invariant tests -->
 <!-- - [**gasless-onboarding-kit**](https://github.com/yasinadil/gasless-onboarding-kit): ERC-4337 smart accounts + sponsored UserOps + session keys, Next.js reference app -->
 <!-- - [**onramp-ledger**](https://github.com/yasinadil/onramp-ledger): idempotent double-entry ledger with fiat-ramp webhook reconciliation -->
-<!-- - [**space-marketplace**](https://github.com/yasinadil/space-marketplace): Harberger-style streamed subscription memberships for DAOs -->
+- [**nox-credentials**](https://github.com/yasinadil/nox-credentials): soulbound (ERC-5192) verifiable credentials with SIWE auth and per-recipient encrypted sharing. Includes a v2 security audit of my own code; 100% contract coverage.
+- [**space-marketplace**](https://github.com/yasinadil/space-marketplace): Harberger-style streamed subscription memberships for DAOs. Contract audit and rewrite (5 bugs fixed, each with a regression test), plus fuzz and invariant suites.
 - [**dotsama-multichain-indexer**](https://github.com/yasinadil/dotsama-multichain-indexer): Subsquid ETL indexing an NFT exchange across Astar and Moonbeam into one GraphQL API
+- [**dental-research**](https://github.com/yasinadil/dental-research): Next.js + Supabase intake and analytics app behind a clinical study at three hospitals
 
 > Most of my production work is client code under NDA. The repos above are original reference implementations of the same patterns.
 
