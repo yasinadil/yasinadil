@@ -35,4 +35,4 @@
 
 #### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/adilyasin) · adilyasin205@gmail.com · open to senior full-stack / web3 roles and contracts
+[adilyasin.xyz](https://www.adilyasin.xyz) · [LinkedIn](https://linkedin.com/in/adilyasin) · adilyasin205@gmail.com · open to senior full-stack / web3 roles and contracts
