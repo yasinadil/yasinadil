@@ -32,7 +32,7 @@
 - [**dotsama-multichain-indexer**](https://github.com/yasinadil/dotsama-multichain-indexer): Subsquid ETL indexing an NFT exchange across Astar and Moonbeam into one GraphQL API
 - [**dental-research**](https://github.com/yasinadil/dental-research): Next.js + Supabase intake and analytics app behind a clinical study at three hospitals
 
-> The first four repos are white-label builds of production systems I shipped for clients, each audited and fixed before publishing.
+> The first four are white-label builds of production systems I shipped for clients. While preparing them I reviewed the code, and the bugs I found and fixed are written up in each README.
 
 #### 📫 Reach me
 
