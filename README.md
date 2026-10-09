@@ -28,6 +28,7 @@
 <!-- - [**onramp-ledger**](https://github.com/yasinadil/onramp-ledger): idempotent double-entry ledger with fiat-ramp webhook reconciliation -->
 - [**nox-credentials**](https://github.com/yasinadil/nox-credentials): soulbound (ERC-5192) verifiable credentials with SIWE auth and per-recipient encrypted sharing. Includes a v2 security audit of my own code; 100% contract coverage.
 - [**space-marketplace**](https://github.com/yasinadil/space-marketplace): Harberger-style streamed subscription memberships for DAOs. Contract audit and rewrite (5 bugs fixed, each with a regression test), plus fuzz and invariant suites.
+- [**dotsama-exchange-contracts**](https://github.com/yasinadil/dotsama-exchange-contracts): EIP-712 NFT order book on Astar and Moonbeam, with protocol fees shared to badge stakers
 - [**dotsama-multichain-indexer**](https://github.com/yasinadil/dotsama-multichain-indexer): Subsquid ETL indexing an NFT exchange across Astar and Moonbeam into one GraphQL API
 - [**dental-research**](https://github.com/yasinadil/dental-research): Next.js + Supabase intake and analytics app behind a clinical study at three hospitals
 
